@@ -1,11 +1,18 @@
 {
-  "posts": [
+  "Canales Nacionales": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "AgroTV.pe",
+      "photo": "https://i.postimg.cc/MZMyjB2N/ICONO.png",
+      "url": "https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8"
     }
+    
   ],
-  "profile": {
-    "name": "typicode"
+  "Canales Internacionales": 
+    {
+    "id": 1,
+      "title": "AgroTV.pe",
+      "photo": "https://i.postimg.cc/MZMyjB2N/ICONO.png",
+      "url": "https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8"
   }
 }
