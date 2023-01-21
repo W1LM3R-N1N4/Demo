@@ -1,19 +1,54 @@
 {
-  "Canales Nacionales": [
-    {
-     "id": 1,
-     "title": "AgroTV.pe",
-     "photo": "https://i.postimg.cc/MZMyjB2N/ICONO.png",
-     "url": "https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8"
-    }
-    
-  ],
-  "Canales Internacionales": [
-    {
-    "id": 1,
-      "title": "AgroTV.pe",
-      "photo": "https://i.postimg.cc/MZMyjB2N/ICONO.png",
-      "url": "https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8"
-  }
- ]
+   "canales internacionales": [
+      {
+         "id": 1,
+         "photo": "https://i.postimg.cc/MZMyjB2N/ICONO.png",
+         "title": "Agro TV",
+         "url": "https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8"
+      },
+      {
+         "id": 2,
+         "title": "Alto Nivel Radio",
+         "photo": "https://i.postimg.cc/MZMyjB2N/ICONO.png",
+         "url": "https://stream.mux.com/6uEts2U1Ut3Qapmb1mFmPW02s79sYEyd02.m3u8"
+      },
+      {
+         "id": 3,
+         "title": "Amazonas TV",
+         "photo": "https://i.postimg.cc/MZMyjB2N/ICONO.png",
+         "url": "https://vdo.grupolimalive.com:3327/multi_live/play_720.m3u8"
+      },
+      {
+         "id": 4,
+         "title": "Andes Televisión",
+         "photo": "https://i.postimg.cc/MZMyjB2N/ICONO.png",
+         "url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8"
+      },
+      {
+         "id": 5,
+         "title": "Antares Televisión",
+         "photo": "https://i.postimg.cc/MZMyjB2N/ICONO.png",
+         "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8"
+      }
+   ],
+   "canales nacionales": [
+      {
+         "id": 1,
+         "title": "ATB",
+         "photo": "https://i.imgur.com/E243X2x.png",
+         "url": "http://186.121.206.197/live/daniel/index.m3u8"
+      },
+      {
+         "id": 2,
+         "title": "Bolivision",
+         "photo": "https://i.imgur.com/U98Z5zn.png",
+         "url": "https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8"
+      },
+      {
+         "id": 3,
+         "title": "Red Uno La Paz",
+         "photo": "https://i.imgur.com/pqVzZQ9.png",
+         "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x828xvr"
+      }
+   ]
 }
