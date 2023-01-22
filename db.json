@@ -1,5 +1,5 @@
 {
-   "canales internacionales": [
+   "estrenos": [
       {
          "id": 1,
          "photo": "https://i.postimg.cc/MZMyjB2N/ICONO.png",
@@ -31,7 +31,7 @@
          "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8"
       }
    ],
-   "canales nacionales": [
+   "terror": [
       {
          "id": 1,
          "title": "ATB",
